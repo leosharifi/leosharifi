@@ -2,13 +2,14 @@
 
 👀 I’m interested in creating your powerful projects
 🌱 I’m currently learning JS
-- 📫 elyassharifi.vercel.app
+- 📫 https://elyassharifi.vercel.app
 
 ⚡ Open to work
+
 My Skills
-1. ![html]
-2. 
-3. (https://github.com/user-attachments/assets/94d04e28-1912-4853-88b5-1b809901c226)
+1. HTML5
+2. CSS3
+3. JS 
 
 
 
