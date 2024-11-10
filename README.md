@@ -1,4 +1,4 @@
-👋 Hi, there, I'm Elyas
+# 👋 Hey there, I'm Elyas
 
         I'm a passionate software Engineer at #100Devs
 
@@ -9,12 +9,9 @@
 
 ⚡ Open to work
 
-My Skills
-1. HTML5
-2. CSS3
-3. JS 
+### Skills
 
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
 
 <!---
 elyassharifi/elyassharifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
