@@ -1,6 +1,6 @@
-#It's Elyas 👋 Hey there 
+<h1>It's Elyas 👋 Hey there 
 ### I'm a skilled web developer I would be happy to Help you in creating dynamic web page, I do Javascript challenges on codewars and powerfull tool to get better at javscript
-<a href="https://www.codewars.com/users/elyassharifi">CodeWars 7Kyu</>
+<a href="https://www.codewars.com/users/elyassharifi">
 
 👀 I’m interested in creating your powerful projects
 
