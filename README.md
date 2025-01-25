@@ -1,5 +1,6 @@
-<h1>It's Elyas 👋 Hey there </h1>
+<h1>👋 Hey there!,  It's Elyas  </h1>
 <p>I'm a skilled web developer I would be happy to Help you in creating dynamic web page, I do Javascript challenges on codewars and powerfull tool to get better at javscript</p>
+
 <ul>
   <li><a href="https://www.codewars.com/users/elyassharifi" style="color: yellow; text-decoration: none;">CodeWars 7Kyu</a></li>
   <li>👀 I’m interested in creating your powerful projects</li>
