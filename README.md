@@ -8,9 +8,9 @@
   <li>⚡ Open to work</li>
 </ul>
 <h2>How To Contact Me!</h2>
-<ol>
+<ul>
   <li><a href="https://elyassharifi.vercel.app/">elyassharifi</li>
-</ol>
+</ul>
         
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
