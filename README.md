@@ -6,9 +6,9 @@
   <li>👀 I’m interested in creating your powerful projects</li>
   <li>🌱 I’m currently learning JS</li>
   <li>⚡ Open to work</li>
-  <ol>Contact ME!
-      <li><a href="https://elyassharifi.vercel.app" style="color: yellow; text-decoration: none;">elyassharifi</li>
-  </ol>
+      <ol>Contact ME!
+         <li><a href="https://elyassharifi.vercel.app" style="color: yellow; text-decoration: none;">elyassharifi</li>
+      </ol>
 </ul>
         
 ### Skills
