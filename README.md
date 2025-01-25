@@ -1,13 +1,15 @@
 <h1>It's Elyas 👋 Hey there </h1>
 <p>I'm a skilled web developer I would be happy to Help you in creating dynamic web page, I do Javascript challenges on codewars and powerfull tool to get better at javscript</p>
-<a href="https://www.codewars.com/users/elyassharifi">CodeWars 7Kyu</a>
-
-👀 I’m interested in creating your powerful projects
-
-🌱 I’m currently learning JS
-- 📫 https://elyassharifi.vercel.app
-⚡ Open to work
-
+<ul>
+  <li><a href="https://www.codewars.com/users/elyassharifi" style="color: yellow; text-decoration: none;">CodeWars 7Kyu</a></li>
+  <li>👀 I’m interested in creating your powerful projects</li>
+  <li>🌱 I’m currently learning JS</li>
+  <li>⚡ Open to work</li>
+  <ol>Contact ME!
+      <li><a href="https://elyassharifi.vercel.app" style="color: yellow; text-decoration: none;>elyassharifi</li>
+  </ol>
+</ul>
+        
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
 
