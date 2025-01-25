@@ -6,7 +6,7 @@
   <li>🌱 I’m currently learning JS</li>
   <li>⚡ Open to work</li>
   <ol>Contact ME!
-      <li><a href="https://elyassharifi.vercel.app" style="color: yellow; text-decoration: none;>elyassharifi</li>
+      <li><a href="https://elyassharifi.vercel.app" style="color: yellow; text-decoration: none;">elyassharifi</li>
   </ol>
 </ul>
         
