@@ -1,4 +1,4 @@
-<h1>It's Elyas 👋 Hey there </h1>>
+<h1>It's Elyas 👋 Hey there </h1>
 <p>I'm a skilled web developer I would be happy to Help you in creating dynamic web page, I do Javascript challenges on codewars and powerfull tool to get better at javscript</p>
 <a href="https://www.codewars.com/users/elyassharifi">CodeWars 7Kyu</a>
 
