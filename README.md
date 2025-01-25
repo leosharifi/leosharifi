@@ -6,10 +6,11 @@
   <li>👀 I’m interested in creating your powerful projects</li>
   <li>🌱 I’m currently learning JS</li>
   <li>⚡ Open to work</li>
-      <ol>Contact ME!
-         <li><a href="https://elyassharifi.vercel.app" style="color: yellow; text-decoration: none;">elyassharifi</li>
-      </ol>
 </ul>
+<h2>How To Contact Me!</h2>
+<ol>
+  <li><a href="https://elyassharifi.vercel.app/">elyassharifi</li>
+</ol>
         
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
