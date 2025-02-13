@@ -2,7 +2,7 @@
 <p>I'm a skilled web developer I would be happy to Help you in creating dynamic web page, I do Javascript challenges on codewars and powerfull tool to get better at javscript</p>
 
 <ul>
-  <li><a href="https://www.codewars.com/users/elyassharifi" style="color: yellow; text-decoration: none;">CodeWars 7Kyu</a></li>
+  <li><a href="https://www.codewars.com/users/elyassharifi/badges/large" style="color: yellow; text-decoration: none;"></a></li>
   <li>👀 I’m interested in creating your powerful projects</li>
   <li>🌱 I’m currently learning JS</li>
   <li>⚡ Open to work</li>
