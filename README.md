@@ -12,9 +12,9 @@ Hi, I'm a Software Engineer with a passion for creating and innovating! I'm curr
 ## Tech Languages
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Icon" />
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML Icon" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML Icon" width="65" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon" width="65" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Icon" width="65" />
 </div>
 
 ---
@@ -22,25 +22,38 @@ Hi, I'm a Software Engineer with a passion for creating and innovating! I'm curr
 ## Tools
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon" />
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub Icon" />
-  <img src="https://w7.pngwing.com/pngs/682/457/png-transparent-repository-slack-html-glitch-purple-marine-mammal-seafood-thumbnail.png" alt="Glitch Icon" width="48" />
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular Icon" />
-  <img src="https://img.icons8.com/color/48/000000/codepen.png" alt="CodePen Icon" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code Icon" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon" width="65" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub Icon" width="65" />
+  <img src="https://w7.pngwing.com/pngs/682/457/png-transparent-repository-slack-html-glitch-purple-marine-mammal-seafood-thumbnail.png" alt="Glitch Icon" width="65" />
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm Icon" width="65" />
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular Icon" width="65" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase Icon" width="65" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDML5CFq70Y9FJ52YnyCjfdyUA3g9B6is_jA&s" alt="Tailwind CSS Icon" width="65"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma Icon" width="65" />
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass Icon" width="65" />
+  <img src="https://img.icons8.com/color/48/000000/codepen.png" alt="CodePen Icon" width="65" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code Icon" width="65" />
 </div>
 
 ---
 
-## Projects
-- **[Project Name]** - A brief description of your awesome project.  
-  Example: Portfolio Website - Showcasing my web development work and achievements.
+## My Projects
+- **Push-Work**
+    - Setting up a beautiful layout also As my frist project wrote with HTML & CSS.  
+    - Tech Used: HTML, CSS
+    - [Live Preview](https://push-work.vercel.app/)
   
-- **[Project Name]** - Another cool project of yours!
+- **Youtube Clone**
+    - Youtube clone is a repo as same as the main Youtube that you can watch amazing vedios out there and will update it as soon as possible.  
+    - Tech Used: HTML, CSS
+    - [Live Preview](https://htmlpreview.github.io/?https://github.com/elyassharifi/YouTube-Clone/blob/main/youtube.html)
 
+      
 ---
 
 ## Get in Touch
-- Portfolio: [My Portfolio](https://elyassharifi.vercel.app/)
+- Portfolio: [Have a look to my Portfolio!](https://elyassharifi.vercel.app/)
+- Resume: [Have a look to my Resume!](https://elyassharifi.vercel.app/My%20Resume/Elyas%20CV.pdf)
+- Twitter: [Get in Touch in Twitter!](https://x.com/leosharifi/)
 - Email: elyassharifi2548@gmail.com
-- Twitter: [My Twitter](https://x.com/leosharifi/)
+
