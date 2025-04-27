@@ -56,4 +56,6 @@ Hi, I'm a Software Engineer with a passion for creating and innovating! I'm curr
 - Resume: [Have a look to my Resume!](https://elyassharifi.vercel.app/My%20Resume/Elyas%20CV.pdf)
 - Twitter: [Get in Touch in Twitter!](https://x.com/leosharifi/)
 - Email: elyassharifi2548@gmail.com
+  
+  [![Codewars Badge](https://www.codewars.com/users/elyassharifi/badges/large)](https://www.codewars.com/users/elyassharifi/)
 
