@@ -26,8 +26,6 @@ Hi, I'm a Software Engineer with a passion for creating and innovating! I'm curr
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub Icon" width="65" />
   <img src="https://w7.pngwing.com/pngs/682/457/png-transparent-repository-slack-html-glitch-purple-marine-mammal-seafood-thumbnail.png" alt="Glitch Icon" width="65" />
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm Icon" width="65" />
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular Icon" width="65" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase Icon" width="65" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDML5CFq70Y9FJ52YnyCjfdyUA3g9B6is_jA&s" alt="Tailwind CSS Icon" width="65"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma Icon" width="65" />
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass Icon" width="65" />
