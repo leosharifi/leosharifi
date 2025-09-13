@@ -56,4 +56,4 @@ Hi, I'm a Software Engineer with a passion for creating and innovating! I'm curr
 - Email: elyassharifi2548@gmail.com
   
   [![Codewars Badge](https://www.codewars.com/users/elyassharifi/badges/large)](https://www.codewars.com/users/elyassharifi/)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leosharifi&theme=tokyonight&show_icons=true)
